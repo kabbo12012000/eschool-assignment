@@ -1,0 +1,124 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-color{
+    background-color: #F0FFF0;
+}
+.logo-width{
+    width: 198px;
+}
+nav ul li{
+    padding: 0px 15px;
+}
+nav ul li a{
+    color: #000 !important;
+}
+.green-button{
+    border: none;
+    background-color: #21B573;
+    border-radius: 50px;
+    color: #fff;
+    padding: 8px 22px;
+}
+.green-button:hover{
+    cursor: pointer;
+    background-color: #0a7746;
+}
+.top-section{
+    padding: 60px 0px;
+}
+.top-section h6{
+    color: #FD511A;
+}
+.top-section h1{
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 70px;
+}
+.top-section p{
+    color: #6C6B6B;
+    line-height: 36px;
+}
+.green-color{
+    color: #21B573;
+}
+.left-column{
+    margin-right: 20px;
+}
+.icon-box{
+    background-color: #F1FFF8;
+    transition: ease-in-out .4s;
+    padding: 30px 15px;
+    margin: 15px 0px;
+    border-radius: 10px;
+}
+.icon-box:hover{
+    background-color: #fff;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, .10);
+    cursor: pointer;
+}
+.icon-box h4{
+    margin-top: 20px;
+    
+}
+.icon{
+    height: 75px;
+}
+.section-margin{
+    margin-top: 60px;
+}
+.info-icon{
+    width:24px;
+    margin: 0px !important;
+}
+.course-img{
+    width: 100%;
+}
+.outer-box{
+    margin: 20px 0px;
+}
+.inner-box{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, .10);
+    padding: 20px;
+    border-radius: 10px;
+}
+.inner-box img{
+    margin-bottom: 20px;
+}
+.box-footer{
+    margin-top: 20px;
+}
+.card-img{
+    width: 120px;
+}
+.card{
+    border: none;
+}
+.instructor{
+    background-image: url(images/Photos/instructor-bg.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    padding: 100px 0px;
+}
+.subscribe{
+    background-color: #FAAF3A;
+    padding: 30px 0px 20px 0px;
+}
+form button{
+    margin-left: 16px;
+}
+footer{
+    background-color: #282531;
+    padding: 40px 0px;
+}
+footer p{
+    color: #fff;
+}
+footer h5{
+    color: #fff;
+    margin-top: 20px;
+}
+.copyright{
+    padding: 20px 0px 0px 0px;
+}
